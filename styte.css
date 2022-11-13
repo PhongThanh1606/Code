@@ -1,0 +1,22 @@
+body {
+    overflow: hidden;
+    margin: 0;
+}
+
+.container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80%;
+    width: 30%;
+    text-align: ;
+    color: white;
+    font-family: cursive;
+}
+
+audio {
+    position: absolute;
+    top: 105%;
+    right: 44%;
+    animation: fadein ease 5s;
+}
